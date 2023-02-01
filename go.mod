@@ -9,7 +9,7 @@ replace github.com/keploy/go-sdk => github.com/iamskp99/go-sdk v0.0.6-alpha
 require (
 	github.com/99designs/gqlgen v0.15.1 // v should be less or equal 0.15.1
 	github.com/go-chi/chi v1.5.4
-	github.com/go-chi/cors v1.2.0
+	github.com/go-chi/cors v1.2.1
 	github.com/go-chi/render v1.0.1
 	github.com/go-test/deep v1.0.8
 	github.com/google/uuid v1.3.0
