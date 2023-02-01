@@ -10,7 +10,7 @@ require (
 	github.com/99designs/gqlgen v0.15.1 // v should be less or equal 0.15.1
 	github.com/go-chi/chi v1.5.4
 	github.com/go-chi/cors v1.2.0
-	github.com/go-chi/render v1.0.1
+	github.com/go-chi/render v1.0.2
 	github.com/go-test/deep v1.0.8
 	github.com/google/uuid v1.3.0
 	github.com/kelseyhightower/envconfig v1.4.0
@@ -44,6 +44,7 @@ require (
 
 require (
 	github.com/agnivade/levenshtein v1.1.1 // indirect
+	github.com/ajg/form v1.5.1 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/creasty/defaults v1.6.0 // indirect
 	github.com/fullstorydev/grpcurl v1.8.7 // indirect
